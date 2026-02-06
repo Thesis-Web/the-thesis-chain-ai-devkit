@@ -1,4 +1,3 @@
-// TARGET: aidev src/core/injection-guards.ts
 
 export function assertNoObviousPromptInjection(material: string): void {
   // Conservative heuristics; false positives are acceptable in safety mode.

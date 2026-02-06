@@ -1,4 +1,3 @@
-// TARGET: aidev docs/000-overview.md
 
 # Overview
 

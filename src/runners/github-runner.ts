@@ -1,4 +1,3 @@
-// TARGET: aidev src/runners/github-runner.ts
 
 /*
   GitHub Runner (Architecture Skeleton)

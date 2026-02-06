@@ -1,4 +1,3 @@
-// TARGET: aidev docs/060-threat-model-for-agents.md
 
 # Threat Model for Engineering Agents
 

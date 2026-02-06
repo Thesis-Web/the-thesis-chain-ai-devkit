@@ -1,4 +1,3 @@
-# TARGET: aidev .github/workflows/ai-devkit-demo.yml
 name: AI Devkit Demo (Advisory)
 
 on:

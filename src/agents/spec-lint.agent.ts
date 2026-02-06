@@ -1,4 +1,3 @@
-// TARGET: aidev src/agents/spec-lint.agent.ts
 
 import type { AgentContext, Report, LLMRequest } from "../core/types";
 import { createLLMClient } from "../core/llm-client";

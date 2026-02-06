@@ -1,4 +1,3 @@
-// TARGET: aidev src/core/schema.ts
 
 import type { Report, JSONSchemaLike } from "./types";
 

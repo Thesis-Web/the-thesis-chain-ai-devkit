@@ -1,4 +1,3 @@
-// TARGET: aidev README.md
 
 # The Thesis Chain — AI Devkit
 

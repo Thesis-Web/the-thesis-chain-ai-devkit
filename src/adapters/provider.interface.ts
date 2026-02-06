@@ -1,4 +1,3 @@
-// TARGET: aidev src/adapters/provider.interface.ts
 
 import type { LLMRequest, LLMProvider } from "../core/types";
 

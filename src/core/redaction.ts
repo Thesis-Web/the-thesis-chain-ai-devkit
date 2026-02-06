@@ -1,4 +1,3 @@
-// TARGET: aidev src/core/redaction.ts
 
 export type RedactionRule = Readonly<{
   id: string;

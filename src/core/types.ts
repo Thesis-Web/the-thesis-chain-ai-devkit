@@ -1,4 +1,3 @@
-// TARGET: aidev src/core/types.ts
 
 export type Severity = "info" | "warn" | "high";
 export type Category = "structure" | "invariant" | "threat" | "diff" | "test";

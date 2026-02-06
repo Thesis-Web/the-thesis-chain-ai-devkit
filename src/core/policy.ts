@@ -1,4 +1,3 @@
-// TARGET: aidev src/core/policy.ts
 
 import type { Budget, ModelSpec } from "./types";
 

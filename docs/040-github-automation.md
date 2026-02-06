@@ -1,4 +1,3 @@
-// TARGET: aidev docs/040-github-automation.md
 
 # GitHub Automation
 

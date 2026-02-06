@@ -1,4 +1,3 @@
-// TARGET: aidev docs/020-safety-guardrails.md
 
 # Safety Guardrails
 

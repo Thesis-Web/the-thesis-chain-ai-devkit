@@ -1,4 +1,3 @@
-// TARGET: aidev src/adapters/provider.stub.ts
 
 import type { ProviderAdapter, ProviderResult } from "./provider.interface";
 import type { LLMRequest } from "../core/types";

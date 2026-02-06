@@ -1,4 +1,3 @@
-// TARGET: aidev src/index.ts
 
 export * from "./core/types";
 export * from "./core/llm-client";

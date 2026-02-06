@@ -1,4 +1,3 @@
-// TARGET: aidev src/core/prompt-templates.ts
 
 import type { JSONSchemaLike } from "./types";
 

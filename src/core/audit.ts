@@ -1,4 +1,3 @@
-// TARGET: aidev src/core/audit.ts
 
 import type { LLMProvider } from "./types";
 

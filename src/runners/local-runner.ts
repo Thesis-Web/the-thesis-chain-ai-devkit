@@ -1,4 +1,3 @@
-// TARGET: aidev src/runners/local-runner.ts
 
 import type { AgentContext, FileBlob } from "../core/types";
 import { runSpecLint } from "../agents/spec-lint.agent";

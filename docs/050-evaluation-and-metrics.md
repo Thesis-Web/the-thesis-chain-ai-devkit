@@ -1,4 +1,3 @@
-// TARGET: aidev docs/050-evaluation-and-metrics.md
 
 # Evaluation & Metrics
 

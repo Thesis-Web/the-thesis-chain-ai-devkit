@@ -1,4 +1,3 @@
-// TARGET: aidev scripts/devkit-demo.mjs
 
 /*
   Minimal demo runner (public-safe).

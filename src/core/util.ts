@@ -1,4 +1,3 @@
-// TARGET: aidev src/core/util.ts
 
 export function sha256(s: string): string {
   // Pseudocode-ish stable hash. Not for real use

@@ -1,4 +1,3 @@
-// TARGET: aidev docs/010-agent-architecture.md
 
 # Agent Architecture
 
